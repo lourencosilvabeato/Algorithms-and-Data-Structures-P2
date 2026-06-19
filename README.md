@@ -1,7 +1,7 @@
 # Paintball Game Simulator
 
 ## Overview
-A turn-based paintball game simulator developed for the Algorithms and Data Structures course at FCT NOVA. Multiple teams compete on a 2D grid map by recruiting and deploying combat units to capture bunkers and eliminate opponents. The system is driven by a command-line interface and built entirely around custom data structures and the Iterator pattern.
+A turn-based paintball game simulator developed for the Object-Oriented Programming course at FCT NOVA. Multiple teams compete on a 2D grid map by recruiting and deploying combat units to capture bunkers and eliminate opponents. The system is driven by a command-line interface and built entirely around custom data structures and the Iterator pattern.
 
 ## Core Technologies
 Built entirely in Java with no external libraries. All data structures — fixed-capacity arrays, dynamic arrays with custom iterators, and a 2D cell grid — are implemented from scratch as part of the course requirements. The architecture follows an interface-segregated, facade-driven design to separate concerns between the CLI, the game system, and the domain objects.
