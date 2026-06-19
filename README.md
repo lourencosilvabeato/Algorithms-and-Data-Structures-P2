@@ -82,8 +82,3 @@ java -cp bin Main
 | `players` | List the current team's active players and positions |
 | `help` | Show available commands |
 | `quit` | Exit the program |
-
-## Authors
-- **Lourenço Beato** (68461) — lm.beato@campus.fct.unl.pt
-
-FCT NOVA — Algorithms and Data Structures, 2024/2025
